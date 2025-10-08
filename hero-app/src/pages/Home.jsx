@@ -1,24 +1,21 @@
 import React from 'react';
-import { useState } from 'react';
+import { useLoaderData } from 'react-router';
 import Banner from '../components/Banner';
 import Cards from '../components/Cards';
-import { useLoaderData } from 'react-router';
 
 const Home = () => {
-  const data=useLoaderData();
-
- const [isBannerVisible, setIsBannerVisible] = useState(true);
-
-  const handleShowAll = () => {
-    setIsBannerVisible(false); 
-  };
+  const allApps = useLoaderData();
 
   return (
-    <div className="text-center p-10">
-       {isBannerVisible && <Banner />}
-      <Cards data={data} onShowAll={handleShowAll}></Cards>
+    <div>
+      {/* The Banner is now always visible */}
+      <Banner />
+      
+      {/* We only need to pass the data to the Cards component */}
+      <Cards data={allApps} />
     </div>
   );
 };
 
 export default Home;
+

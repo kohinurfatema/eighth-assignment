@@ -1,29 +1,22 @@
-
-import './App.css'
 import React, { useState } from 'react';
 import { Outlet } from 'react-router';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
-
+import { Toaster } from 'react-hot-toast'; // 1. Import Toaster
 
 function App() {
-
-   const [isBannerVisible, setIsBannerVisible] = useState(true);
-  
+  const [isBannerVisible, setIsBannerVisible] = useState(true);
 
   return (
-    <>
-      <div>
+    <div>
       <Navbar setIsBannerVisible={setIsBannerVisible} />
-      <main className="min-h-screen">
+      <main>
         <Outlet context={{ isBannerVisible, setIsBannerVisible }} />
       </main>
       <Footer />
-    </div> 
-     
-      
-    </>
-  )
+      <Toaster position="top-center" reverseOrder={false} /> {/* 2. Add Toaster component */}
+    </div>
+  );
 }
 
-export default App
+export default App;
