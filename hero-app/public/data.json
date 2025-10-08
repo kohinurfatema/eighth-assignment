@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "image": "https://placehold.co/300x200/fbbf24/1f2937?text=TaskMaster",
+    "title": "FocusFlow",
+    "companyName": "Productivity Inc.",
+    "description": "A minimalist timer designed to help you concentrate. Uses the Pomodoro Technique to break down work into manageable intervals, boosting your efficiency and reducing burnout.",
+    "size": 25,
+    "reviews": 12000,
+    "ratingAvg": 4.8,
+    "downloads": 1500000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 8000 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://placehold.co/300x200/fbbf24/1f2937?text=TaskMaster",
+    "title": "TaskMaster",
+    "companyName": "OrganizeMe",
+    "description": "The ultimate to-do list and project manager for individuals and teams. Organize tasks, set deadlines, and collaborate with others to keep your projects on track.",
+    "size": 40,
+    "reviews": 25000,
+    "ratingAvg": 4.7,
+    "downloads": 3000000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 6000 },
+      { "name": "5 star", "count": 17100 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://placehold.co/300x200/60a5fa/1f2937?text=CalmSpace",
+    "title": "CalmSpace",
+    "companyName": "Mindful Moments",
+    "description": "Find your inner peace with guided meditations, soothing soundscapes, and breathing exercises. Perfect for reducing stress and improving your overall well-being.",
+    "size": 60,
+    "reviews": 50000,
+    "ratingAvg": 4.9,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 44350 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://placehold.co/300x200/f87171/1f2937?text=SnapEdit",
+    "title": "SnapEdit",
+    "companyName": "Creative Tools",
+    "description": "Powerful and intuitive photo editing for everyone. Apply filters, adjust colors, and use advanced tools to make your photos stand out with professional quality.",
+    "size": 80,
+    "reviews": 18000,
+    "ratingAvg": 4.6,
+    "downloads": 2000000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 10400 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://placehold.co/300x200/c084fc/1f2937?text=BudgetWise",
+    "title": "BudgetWise",
+    "companyName": "FinanceFirst",
+    "description": "Take control of your finances by tracking your expenses, setting budgets, and visualizing your spending habits. Saving money has never been easier.",
+    "size": 35,
+    "reviews": 22000,
+    "ratingAvg": 4.7,
+    "downloads": 2500000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 5500 },
+      { "name": "5 star", "count": 14200 }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://placehold.co/300x200/34d399/1f2937?text=FitTrack",
+    "title": "FitTrack",
+    "companyName": "Healthify",
+    "description": "Your personal fitness and workout planner. Log your workouts, track your progress, and get personalized plans to achieve your health and fitness goals.",
+    "size": 55,
+    "reviews": 30000,
+    "ratingAvg": 4.8,
+    "downloads": 4000000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 7000 },
+      { "name": "5 star", "count": 21700 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://placehold.co/300x200/fb923c/1f2937?text=RecipeGenie",
+    "title": "RecipeGenie",
+    "companyName": "Kitchen Creations",
+    "description": "Discover thousands of new recipes with step-by-step instructions. Save your favorites, create shopping lists, and find your next delicious meal.",
+    "size": 45,
+    "reviews": 15000,
+    "ratingAvg": 4.9,
+    "downloads": 1800000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 11500 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://placehold.co/300x200/93c5fd/1f2937?text=LangLearn",
+    "title": "LangLearn",
+    "companyName": "Global Speak",
+    "description": "Learn a new language with fun, bite-sized lessons. Practice speaking, reading, listening, and writing skills through interactive exercises and games.",
+    "size": 70,
+    "reviews": 40000,
+    "ratingAvg": 4.8,
+    "downloads": 6000000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 8000 },
+      { "name": "5 star", "count": 29500 }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "https://placehold.co/300x200/f472b6/1f2937?text=CodePad",
+    "title": "CodePad",
+    "companyName": "DevTools",
+    "description": "A lightweight yet powerful code editor for your mobile device. Perfect for quick edits and coding on the go with syntax highlighting for multiple languages.",
+    "size": 20,
+    "reviews": 8000,
+    "ratingAvg": 4.7,
+    "downloads": 1000000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 4400 }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://placehold.co/300x200/a78bfa/1f2937?text=AudioScape",
+    "title": "AudioScape",
+    "companyName": "Sound Weavers",
+    "description": "Create and listen to custom ambient soundscapes for focus, relaxation, or sleep. Mix and match sounds like rain, fire, and wind to create your perfect atmosphere.",
+    "size": 50,
+    "reviews": 11000,
+    "ratingAvg": 4.9,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 8600 }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "https://placehold.co/300x200/22d3ee/1f2937?text=StoryScribe",
+    "title": "StoryScribe",
+    "companyName": "InkWell",
+    "description": "Your secure and private digital journal. Write down your thoughts, record your memories, and track your mood with this beautifully designed diary app.",
+    "size": 30,
+    "reviews": 9000,
+    "ratingAvg": 4.8,
+    "downloads": 900000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 6150 }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://placehold.co/300x200/fdba74/1f2937?text=MindMap",
+    "title": "MindMap",
+    "companyName": "IdeaSpark",
+    "description": "Visualize your ideas with intuitive mind mapping tools. Perfect for brainstorming, planning projects, and organizing complex information in a simple way.",
+    "size": 38,
+    "reviews": 13000,
+    "ratingAvg": 4.7,
+    "downloads": 1600000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 280 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 7900 }
+    ]
+  },
+  {
+    "id": 13,
+    "image": "https://placehold.co/300x200/818cf8/1f2937?text=PodVerse",
+    "title": "PodVerse",
+    "companyName": "AudioWaves",
+    "description": "A clean and powerful podcast player. Discover new shows, create playlists, and enjoy a seamless listening experience with offline downloads.",
+    "size": 42,
+    "reviews": 28000,
+    "ratingAvg": 4.8,
+    "downloads": 3500000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 6000 },
+      { "name": "5 star", "count": 20100 }
+    ]
+  },
+  {
+    "id": 14,
+    "image": "https://placehold.co/300x200/4ade80/1f2937?text=NewsFeed",
+    "title": "NewsFeed",
+    "companyName": "Daily Digest",
+    "description": "Get your daily dose of curated news from reliable sources around the world. Personalize your feed to follow the topics that matter most to you.",
+    "size": 28,
+    "reviews": 19000,
+    "ratingAvg": 4.6,
+    "downloads": 2200000,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 450 },
+      { "name": "3 star", "count": 2200 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 11100 }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "https://placehold.co/300x200/f472b6/1f2937?text=SketchPad",
+    "title": "SketchPad",
+    "companyName": "Artisan Apps",
+    "description": "A simple yet powerful drawing app for artists of all levels. Features a variety of brushes, layers, and tools to bring your creative ideas to life.",
+    "size": 65,
+    "reviews": 16000,
+    "ratingAvg": 4.7,
+    "downloads": 1700000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 10150 }
+    ]
+  },
+  {
+    "id": 16,
+    "image": "https://placehold.co/300x200/a3e635/1f2937?text=HabitForge",
+    "title": "HabitForge",
+    "companyName": "Good Habits",
+    "description": "Build good habits and break bad ones with this simple habit tracker. Set goals, monitor your progress, and stay motivated with insightful statistics.",
+    "size": 33,
+    "reviews": 24000,
+    "ratingAvg": 4.9,
+    "downloads": 2800000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 18200 }
+    ]
+  },
+  {
+    "id": 17,
+    "image": "https://placehold.co/300x200/fbbf24/1f2937?text=ExpenseSplit",
+    "title": "ExpenseSplit",
+    "companyName": "FairShare",
+    "description": "The easiest way to split bills and expenses with friends and family. Track shared costs for trips, dinners, and rent to ensure everyone gets paid back.",
+    "size": 22,
+    "reviews": 17000,
+    "ratingAvg": 4.8,
+    "downloads": 2000000,
+    "ratings": [
+        { "name": "1 star", "count": 100 },
+        { "name": "2 star", "count": 250 },
+        { "name": "3 star", "count": 1100 },
+        { "name": "4 star", "count": 4500 },
+        { "name": "5 star", "count": 11050 }
+    ]
+  },
+  {
+    "id": 18,
+    "image": "https://placehold.co/300x200/60a5fa/1f2937?text=WeatherNow",
+    "title": "WeatherNow",
+    "companyName": "Forecast Co.",
+    "description": "Get accurate, real-time weather updates and forecasts. Features a beautiful interface, detailed radar maps, and severe weather alerts to keep you informed.",
+    "size": 48,
+    "reviews": 35000,
+    "ratingAvg": 4.7,
+    "downloads": 5500000,
+    "ratings": [
+        { "name": "1 star", "count": 300 },
+        { "name": "2 star", "count": 700 },
+        { "name": "3 star", "count": 3000 },
+        { "name": "4 star", "count": 9000 },
+        { "name": "5 star", "count": 22000 }
+    ]
+  },
+  {
+    "id": 19,
+    "image": "https://placehold.co/300x200/f87171/1f2937?text=BookNook",
+    "title": "BookNook",
+    "companyName": "Readers United",
+    "description": "Your personal digital library. Discover, read, and organize your favorite ebooks with a customizable reading experience and access to thousands of titles.",
+    "size": 58,
+    "reviews": 21000,
+    "ratingAvg": 4.8,
+    "downloads": 2300000,
+    "ratings": [
+        { "name": "1 star", "count": 120 },
+        { "name": "2 star", "count": 280 },
+        { "name": "3 star", "count": 1500 },
+        { "name": "4 star", "count": 5000 },
+        { "name": "5 star", "count": 14100 }
+    ]
+  },
+  {
+    "id": 20,
+    "image": "https://placehold.co/300x200/c084fc/1f2937?text=EventPlan",
+    "title": "EventPlan",
+    "companyName": "GatherUp",
+    "description": "Plan and organize your events with ease. Manage guest lists, send invitations, and coordinate all the details for your next party, meeting, or gathering.",
+    "size": 44,
+    "reviews": 14000,
+    "ratingAvg": 4.7,
+    "downloads": 1400000,
+    "ratings": [
+        { "name": "1 star", "count": 150 },
+        { "name": "2 star", "count": 350 },
+        { "name": "3 star", "count": 1300 },
+        { "name": "4 star", "count": 3500 },
+        { "name": "5 star", "count": 8700 }
+    ]
+  }
+]
